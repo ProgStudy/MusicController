@@ -1,0 +1,11 @@
+name: MusicController
+version: "1.0.0"
+api: 1.0.9
+author: BimoPower
+main: bimopower.musiccontroller.MusicController
+
+permissions:
+  music.command.play:
+    default: op
+  music.command.stop:
+    default: op

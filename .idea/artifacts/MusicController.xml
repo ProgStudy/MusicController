@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MusicController">
+    <output-path>$USER_HOME$/Desktop/nukkit-server/plugins</output-path>
+    <root id="archive" name="MusicController.jar">
+      <element id="module-output" name="MusicController" />
+    </root>
+  </artifact>
+</component>
