@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80f001b7-3b9a-4f5a-81fe-d907e73892c0" name="Default Changelist" comment="" />
+    <list default="true" id="80f001b7-3b9a-4f5a-81fe-d907e73892c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/EpicMusic.mcpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MusicController/META-INF/MusicController.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MusicController/bimopower/musiccontroller/commands/PlayCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MusicController/bimopower/musiccontroller/commands/PlayCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MusicController/bimopower/musiccontroller/commands/StopCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MusicController/bimopower/musiccontroller/commands/StopCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bimopower/musiccontroller/commands/PlayCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bimopower/musiccontroller/commands/PlayCommand.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +21,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WbrfotfLEF09lonzQsftUU3SIJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/nukkit-server/plugins/EconomyAPI.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TestPlugin" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -55,21 +71,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579429240824</updated>
+      <workItem from="1581358143857" duration="5992000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1581188105190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581188105190" />
-    <state x="666" y="262" key="FileChooserDialogImpl" timestamp="1581195925040">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="474" y="183" key="FileChooserDialogImpl" timestamp="1581368234161">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="474" y="183" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581368234161" />
     <state x="666" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581195925040" />
-    <state x="440" y="95" key="SettingsEditor" timestamp="1579430773472">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="313" y="0" key="SettingsEditor" timestamp="1581364519350">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="313" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581364519350" />
     <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579430773472" />
     <state x="342" y="141" key="new project wizard" timestamp="1581195973386">
       <screen x="0" y="0" width="1920" height="1040" />

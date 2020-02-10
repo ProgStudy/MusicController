@@ -15,7 +15,7 @@ public class PlayCommand extends Command{
     public PlayCommand(Plugin plugin) {
         super("music-start");
         this.description = "Play the music";
-        this.usageMessage = "/music start <song> <player>";
+        this.usageMessage = "/music-start <song> <player>";
         this.commandParameters.clear();
         this.commandParameters.put("default", new CommandParameter[]{new CommandParameter("song", CommandParamType.STRING, false),new CommandParameter("player", CommandParamType.TARGET, false)});
         this.setPermission("music.command.play");
