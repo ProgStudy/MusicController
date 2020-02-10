@@ -1,4 +1,4 @@
-#MusicController
+# MusicController
 ## This plugin allows you to control sounds in players
 
 --------------------------------------------
